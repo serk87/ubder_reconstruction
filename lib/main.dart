@@ -54,7 +54,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.start,
           children: <Widget>[
             Image.asset(
-              '/img/rec.png',
+              'lib/assets/img/rec.png',
               height: MediaQuery.of(context).size.height / 2,
             ),
             const Text(
